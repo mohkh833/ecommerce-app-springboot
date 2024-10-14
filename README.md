@@ -82,29 +82,26 @@ This project aims to build a fully functional e-commerce web application that al
 
 ## Technical Stack
 
-- **Frontend**: React
 - **Backend**: Spring Boot
-- **Database**: MySQL / PostgreSQL
+- **Database**: MySQL 
 - **ORM**: Hibernate
-- **Payment Gateway**: Stripe / PayPal SDK
+- **Payment Gateway**: Stripe 
 
 ## Development Plan
 
 ### Milestones
 
-1. **Setup and Configuration**:
-   - Setup React and Spring Boot projects.
-   - Configure database and necessary dependencies.
-2. **User Management**:
+
+1. **User Management**:
    - Implement user registration, login, and profile management.
    - Set up JWT-based authentication.
-3. **Product Management**:
+2. **Product Management**:
    - Implement product listing, filtering, and search features.
    - Develop product detail pages.
-4. **Shopping Cart & Orders**:
+3. **Shopping Cart & Orders**:
    - Develop cart management functionality.
    - Implement checkout and order management.
-5. **Payment Integration**:
+4. **Payment Integration**:
    - Integrate payment gateway.
    - Test and secure payment processing.
 
